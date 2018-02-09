@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <AdbPath>.\android-sdk\platform-tools</AdbPath>
+  <AppConfigPath>.\</AppConfigPath>
+  <BeepOnError>true</BeepOnError>
+  <PressAnyKeyAfterFailedRun>true</PressAnyKeyAfterFailedRun>
+  <AllDevicesByDefault>true</AllDevicesByDefault>
+  <MultiThreadingByDefault>true</MultiThreadingByDefault>
+</Config>
